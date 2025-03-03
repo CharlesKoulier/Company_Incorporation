@@ -1,0 +1,92 @@
+[
+  {
+    "id": 38,
+    "display": "Sylviculture",
+    "display_en": "Forestry",
+    "detail": "Gestion et exploitation durable des forêts incluant : plantation, entretien et exploitation des peuplements forestiers. Activités comprenant : préparation des sols, sélection des essences, reboisement, dégagement, élagage, éclaircies. Mise en œuvre des plans de gestion forestière (PSG, CBPS). Application des réglementations environnementales et paysagères. Surveillance phytosanitaire et protection contre les ravageurs. Programmation des coupes selon les cycles de croissance. Commercialisation du bois sur pied ou bord de route. Respect des certifications forestières (PEFC, FSC). Organisation des chantiers forestiers et sécurité des interventions.",
+    "detail_en": "Sustainable forest management including: planting, maintenance and exploitation of forest stands. Activities include: soil preparation, species selection, reforestation, clearing, pruning, thinning. Implementation of forest management plans. Application of environmental and landscape regulations. Phytosanitary monitoring and pest protection. Scheduling of cuts according to growth cycles. Marketing of standing timber or roadside timber. Compliance with forest certifications (PEFC, FSC). Organization of forestry operations and intervention safety.",
+    "category": "Agriculture / Sylviculture et exploitation forestière / Sylviculture",
+    "classification": "Service"
+  },
+  {
+    "id": 84,
+    "display": "Industrie textile et cuir",
+    "display_en": "Textile and leather industry",
+    "detail": "Fabrication et transformation de produits textiles et cuir. Activités incluant : filature, tissage, tricotage, ennoblissement textile (teinture, impression). Confection de vêtements et accessoires. Travail du cuir : tannage, corroyage, maroquinerie. Production en série ou sur mesure. Mise en œuvre des processus de contrôle qualité. Respect des normes textiles (REACH, étiquetage). Gestion des approvisionnements et de la sous-traitance. Développement des collections et suivi des tendances. Application des règles de sécurité industrielle. Possible certification ISO 9001. Traçabilité des matières premières et respect des normes environnementales.",
+    "detail_en": "Manufacturing and processing of textile and leather products. Activities including: spinning, weaving, knitting, textile finishing (dyeing, printing). Manufacture of clothing and accessories. Leather work: tanning, currying, leather goods. Mass production or custom-made. Implementation of quality control processes. Compliance with textile standards (REACH, labeling). Supply chain and subcontracting management. Collection development and trend monitoring. Application of industrial safety rules. Possible ISO 9001 certification. Raw material traceability and compliance with environmental standards.",
+    "category": "Industrie du textile, du cuir et de l'habillement",
+    "classification": "Artisanat"
+  },
+  {
+    "id": 119,
+    "display": "Services informatiques commerciaux",
+    "display_en": "Commercial IT services",
+    "detail": "Prestations de services informatiques aux entreprises incluant : développement de logiciels sur mesure, intégration de systèmes, conseil en architecture IT. Installation et maintenance de parcs informatiques. Gestion des infrastructures réseaux et télécoms. Services de cloud computing et hébergement. Sécurité informatique et protection des données (RGPD). Support utilisateurs et assistance technique. Formation et accompagnement au changement. Mise en place de solutions de sauvegarde et PRA. Maintenance préventive et corrective. Respect des SLA et normes qualité (ISO 27001 possible). Veille technologique et innovation.",
+    "detail_en": "IT services for businesses including: custom software development, systems integration, IT architecture consulting. Installation and maintenance of computer systems. Network and telecom infrastructure management. Cloud computing and hosting services. IT security and data protection (GDPR). User support and technical assistance. Training and change management. Implementation of backup solutions and DRP. Preventive and corrective maintenance. Compliance with SLAs and quality standards (possible ISO 27001). Technology watch and innovation.",
+    "category": "Édition, informatique et télécommunication / Programmation, conseil info / Commercial",
+    "classification": "Service"
+  },
+  {
+    "id": 138,
+    "display": "Mécanique automobile",
+    "display_en": "Automotive mechanics",
+    "detail": "Entretien et réparation de véhicules automobiles comprenant : diagnostics mécaniques et électroniques, révisions périodiques, réparations moteur et transmission. Maintenance des systèmes de freinage, suspension, direction. Interventions sur circuits électriques et électroniques. Pose et équilibrage pneumatiques. Climatisation automobile (attestation capacité obligatoire). Mise à jour des calculateurs et diagnostics OBD. Respect des préconisations constructeurs. Application des normes de sécurité et environnementales. Gestion des déchets automobile (agrément préfectoral). Conseil technique et devis détaillés. Garantie sur interventions.",
+    "detail_en": "Maintenance and repair of motor vehicles including: mechanical and electronic diagnostics, periodic servicing, engine and transmission repairs. Maintenance of braking, suspension and steering systems. Work on electrical and electronic circuits. Tire fitting and balancing. Automotive air conditioning (mandatory capacity certificate). ECU updates and OBD diagnostics. Compliance with manufacturer recommendations. Application of safety and environmental standards. Automotive waste management (prefectural approval). Technical advice and detailed quotes. Warranty on interventions.",
+    "category": "Installation, réparation / Entretien, réparation véhicules automobiles / Mécanique",
+    "classification": "Artisanat"
+  },
+  {
+    "id": 203,
+    "display": "Commerce de détail en magasin",
+    "display_en": "Retail store",
+    "detail": "Vente au détail de produits en magasin physique. Activités comprenant : approvisionnement et gestion des stocks, mise en rayon, étiquetage prix. Aménagement du point de vente et merchandising. Conseil et service client. Encaissement et gestion de caisse. Respect des normes d'hygiène (alimentaire) et sécurité. Application droit consommation (affichage, garanties). Gestion des retours et SAV. Animation commerciale et promotions. Inventaires réguliers. Respect réglementation ERP. Possible vente en ligne complémentaire. Formation du personnel aux techniques de vente.",
+    "detail_en": "Retail sale of products in physical store. Activities including: supply and stock management, shelving, price labeling. Store layout and merchandising. Customer service and advice. Cash handling and management. Compliance with hygiene (food) and safety standards. Application of consumer law (display, warranties). Returns and after-sales management. Commercial animation and promotions. Regular inventories. ERP regulations compliance. Possible complementary online sales. Staff training in sales techniques.",
+    "category": "Commerce et artisanat de détail / Vente en magasin",
+    "classification": "Commerce"
+  },
+  {
+    "id": 315,
+    "display": "Agence de communication",
+    "display_en": "Communication agency",
+    "detail": "Conseil et création en communication comprenant : stratégie de communication, identité visuelle, supports print et digitaux. Conception-rédaction et design graphique. Création de sites web et contenus digitaux. Relations presse et médias. Organisation d'événements corporate. Gestion des réseaux sociaux. Production audiovisuelle et photographique. Respect droits d'auteur et propriété intellectuelle. Achat d'espaces publicitaires. Mesure des performances (ROI). Veille concurrentielle et tendances. Gestion de projets multicanaux. Protection des données clients (RGPD).",
+    "detail_en": "Communication consulting and creation including: communication strategy, visual identity, print and digital media. Copywriting and graphic design. Website creation and digital content. Press and media relations. Corporate event organization. Social media management. Audiovisual and photographic production. Copyright and intellectual property compliance. Media buying. Performance measurement (ROI). Competitive intelligence and trends. Multichannel project management. Customer data protection (GDPR).",
+    "category": "Services / Conseil en relations publiques et communication / Agence de communication",
+    "classification": "Service"
+  },
+  {
+    "id": 319,
+    "display": "Architecte",
+    "display_en": "Architect",
+    "detail": "Conception et suivi architectural comprenant : études préliminaires, conception des projets, demandes d'autorisation. Établissement des plans et documents techniques. Direction de l'exécution des travaux. Coordination des intervenants. Respect des normes de construction (RT2020, accessibilité). Inscription obligatoire à l'Ordre des Architectes. Assurance responsabilité décennale. Veille réglementaire et technique. Conseil en développement durable. Gestion des appels d'offres. Suivi budgétaire et planning. Réception des travaux.",
+    "detail_en": "Architectural design and monitoring including: preliminary studies, project design, authorization requests. Establishment of plans and technical documents. Construction supervision. Stakeholder coordination. Compliance with construction standards. Mandatory registration with the Order of Architects. Decennial liability insurance. Regulatory and technical watch. Sustainable development consulting. Tender management. Budget and schedule monitoring. Work acceptance.",
+    "category": "Services / Activités spécialisées, scientifiques et techniques / Architecture",
+    "classification": "Profession libérale"
+  },
+  {
+    "id": 447,
+    "display": "Infirmier",
+    "display_en": "Nurse",
+    "detail": "Soins infirmiers à domicile ou en cabinet comprenant : soins prescrits, injections, pansements, prélèvements. Surveillance clinique et prévention. Administration des traitements. Soins d'hygiène et de confort. Éducation thérapeutique. Coordination avec équipe médicale. Tenue du dossier de soins. Convention avec l'Assurance Maladie. Respect secret médical. Stérilisation matériel. Gestion des déchets médicaux (DASRI). Formation continue obligatoire. Possible spécialisation (diabète, plaies).",
+    "detail_en": "Home or office nursing care including: prescribed care, injections, dressings, sampling. Clinical monitoring and prevention. Treatment administration. Hygiene and comfort care. Therapeutic education. Medical team coordination. Care record maintenance. Health Insurance agreement. Medical confidentiality. Equipment sterilization. Medical waste management. Mandatory continuing education. Possible specialization (diabetes, wounds).",
+    "category": "Social et santé / Santé humaine / Infirmier",
+    "classification": "Profession libérale"
+  },
+  {
+    "id": 466,
+    "display": "Création métiers d'art",
+    "display_en": "Art crafts creation",
+    "detail": "Création et fabrication d'objets d'art comprenant : conception de pièces uniques ou petites séries. Travail des matériaux nobles (verre, céramique, métal précieux). Restauration d'œuvres anciennes. Possible labellisation Métiers d'Art. Maîtrise des techniques traditionnelles. Innovation dans les procédés. Participation aux salons professionnels. Vente directe ou via galeries. Respect des normes de sécurité (produits, outils). Formation d'apprentis possible. Documentation des créations. Gestion de la propriété artistique.",
+    "detail_en": "Creation and manufacture of art objects including: design of unique pieces or small series. Work with noble materials (glass, ceramics, precious metals). Restoration of ancient works. Possible Art Crafts certification. Mastery of traditional techniques. Process innovation. Participation in trade shows. Direct sales or through galleries. Compliance with safety standards. Possible apprentice training. Creation documentation. Artistic property management.",
+    "category": "Arts, culture, divertissement / Activités créatives, artistiques / Métiers d'art",
+    "classification": "Artisanat"
+  },
+  {
+    "id": 506,
+    "display": "Coiffure",
+    "display_en": "Hairdressing",
+    "detail": "Prestations de coiffure et soins capillaires comprenant : coupes, colorations, brushing, mèches. Techniques de coiffage et transformation. Conseils personnalisés. Vente de produits capillaires. Gestion des rendez-vous. Application des règles d'hygiène. Stérilisation du matériel. Qualification requise (BP Coiffure). Respect des normes de sécurité. Formation continue aux techniques. Gestion des stocks produits. Possible spécialisation (mariage, barbe). Animation d'équipe possible. Suivi satisfaction client.",
+    "detail_en": "Hairdressing and hair care services including: cuts, coloring, blow-drying, highlights. Styling and transformation techniques. Personalized advice. Hair product sales. Appointment management. Hygiene rules application. Equipment sterilization. Required qualification. Safety standards compliance. Continuous technique training. Product stock management. Possible specialization (wedding, beard). Possible team management. Customer satisfaction monitoring.",
+    "category": "Autres services personnels / Coiffure",
+    "classification": "Artisanat"
+  }
+]
